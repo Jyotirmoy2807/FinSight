@@ -13,3 +13,21 @@ frontend/.env
 frontend/dist
 frontend/dist-ssr
 frontend/*.local
+
+
+# Backend
+
+Backend/logs
+Backend/*.log
+Backend/npm-debug.log*
+Backend/yarn-debug.log*
+Backend/yarn-error.log*
+Backend/pnpm-debug.log*
+Backend/lerna-debug.log*
+
+Backend/node_modules
+Backend/.env
+Backend /dist
+Backend/dist-ssr
+Backend/*.local
+
